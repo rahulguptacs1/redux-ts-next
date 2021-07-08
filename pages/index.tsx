@@ -22,6 +22,12 @@ const Index = () => {
       <Link href="/users">
         <a>users</a>
       </Link>
+
+      <div>
+        <Link href="/home">
+          <a>home</a>
+        </Link>
+      </div>
     </>
   );
 };
